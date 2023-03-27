@@ -1,0 +1,8 @@
+ECE 3504: Principles of Computer Architecture
+ECE 3514: Data Structures and Algorithms
+ECE 3524: Introduction to Unix for ECE
+ECE 3564: Introduction to Computer Networking
+ECE 3574: Applied Software Design
+ECE 4524: Artificial Intelligence and Engineering Applications
+ECE 4550: Real-Time Systems
+ECE 4574: Large-Scale Software Development for Engineering Systems
